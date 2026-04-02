@@ -22,6 +22,14 @@ main {
   height: auto;
 }
 
+.tagline {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #999999;
+  letter-spacing: 0.04em;
+}
+
 footer {
   position: fixed;
   bottom: 1.5rem;
